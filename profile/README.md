@@ -2,7 +2,7 @@
 
 Welcome to the **Aegis HTTP** organization! 🚀
 
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/lappbcambkogfmigiphapgjcglafcfnd?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/lappbcambkogfmigiphapgjcglafcfnd)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/lappbcambkogfmigiphapgjcglafcfnd?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/lappbcambkogfmigiphapgjcglafcfnd) [![Mozilla Add-on](https://img.shields.io/amo/v/aegis-http-gpg-login?style=for-the-badge&logo=mozilla-firefox&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/aegis-http-gpg-login/)
 
 Aegis HTTP is an autonomous, **End-to-End Encrypted (E2E) HTTP gateway architecture** built on top of standard GPG (GNU Privacy Guard). It enables absolute **Zero Trust communication** between web browsers and backend servers without exposing any cryptographic material to the browser's JavaScript engine or requiring complex frontend cryptographic libraries.
 
@@ -67,4 +67,4 @@ By separating cryptographic materials from the browser runtime, Aegis HTTP neutr
 
 We welcome contributions across all parts of the ecosystem! Please check the individual repositories for specific issues, guidelines, and setup instructions.
 
-If you encounter any bugs or wish to request features, please open an issue in the respective repository or in our centralized [**.github**](https://github.com/AegisHttp/.github) repository templates.
+If you encounter any bugs or wish to request features, please open an issue in the respective repository or in our centralized [**.github**](https://github.com/AegisHttp/AegisHttp) repository templates.
