@@ -2,6 +2,8 @@
 
 Welcome to the **Aegis HTTP** organization! 🚀
 
+[![Available in the Chrome Web Store](https://developer.chrome.com/docs/webstore/images/ChromeWebStore_Badge_v2_206x58.png)](https://chromewebstore.google.com/detail/lappbcambkogfmigiphapgjcglafcfnd)
+
 Aegis HTTP is an autonomous, **End-to-End Encrypted (E2E) HTTP gateway architecture** built on top of standard GPG (GNU Privacy Guard). It enables absolute **Zero Trust communication** between web browsers and backend servers without exposing any cryptographic material to the browser's JavaScript engine or requiring complex frontend cryptographic libraries.
 
 ---
@@ -40,7 +42,7 @@ sequenceDiagram
 The Aegis HTTP ecosystem is composed of several modular building blocks:
 
 *   **[native-host-rust](https://github.com/AegisHttp/native-host-rust)**: The native messaging daemon written in Rust that acts as a secure bridge between the browser extension and your OS GPG keyring.
-*   **[google-chrome-extension](https://github.com/AegisHttp/google-chrome-extension)**: Google Chrome extension providing transparent network interception and encryption.
+*   **[google-chrome-extension](https://github.com/AegisHttp/google-chrome-extension)**: Google Chrome extension providing transparent network interception and encryption. (Available on the [Chrome Web Store](https://chromewebstore.google.com/detail/lappbcambkogfmigiphapgjcglafcfnd))
 *   **[firefox-extension](https://github.com/AegisHttp/firefox-extension)**: Firefox extension providing gecko-compatible interception and encryption.
 *   **[aegis-ts-sdk](https://github.com/AegisHttp/aegis-ts-sdk)**: TypeScript/JavaScript SDK to easily integrate authentication and tunnel controls.
 *   **[caddy-module](https://github.com/AegisHttp/caddy-module)**: A plug-and-play Caddy server module that handles decryption and encryption globally at the web-server layer.
