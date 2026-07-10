@@ -2,7 +2,7 @@
 
 Welcome to the **Aegis HTTP** organization! 🚀
 
-[![Available in the Chrome Web Store](https://developer.chrome.com/docs/webstore/images/ChromeWebStore_Badge_v2_206x58.png)](https://chromewebstore.google.com/detail/lappbcambkogfmigiphapgjcglafcfnd)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/lappbcambkogfmigiphapgjcglafcfnd?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/lappbcambkogfmigiphapgjcglafcfnd)
 
 Aegis HTTP is an autonomous, **End-to-End Encrypted (E2E) HTTP gateway architecture** built on top of standard GPG (GNU Privacy Guard). It enables absolute **Zero Trust communication** between web browsers and backend servers without exposing any cryptographic material to the browser's JavaScript engine or requiring complex frontend cryptographic libraries.
 
